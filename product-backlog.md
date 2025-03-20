@@ -32,11 +32,10 @@ W 500   As a customer, I want to order one or multiple products from the webshop
 
 W 600   As a customer, I want to have access to a shopping cart where I can add products so that I can make a purchase.
         Once the customer is satisfied with the products in the shopping cart, the order can be placed.
-
         The customer can enter discount codes, which come in two types:
             •	Personal discount code (one-time use).
             •	Discount code for everyone with a start and end date.
-        (When a personal discount code is entered, it must be removed from the database after use. Only one discount code can be used per order, and each discount code gives a 10% discount on the total amount.)
+        (When a personal discount code is entered, it must be removed from the database after use. Only one discount code can be used per order, and each discount         code gives a 10% discount on the total amount.)
 
 W 700   As a customer, I want each order to have different statuses that the logged-in user can see, so that they can check the current status of 
         the order.
